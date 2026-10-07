@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "checks": [
+    "Rank blend: reconstructed daily NAV, cost and execution dates passed",
+    "Raw blend: reconstructed daily NAV, cost and execution dates passed",
+    "Momentum only: reconstructed daily NAV, cost and execution dates passed",
+    "Low volatility only: reconstructed daily NAV, cost and execution dates passed",
+    "Equal weight universe: reconstructed daily NAV, cost and execution dates passed",
+    "SPY buy and hold: reconstructed daily NAV, cost and execution dates passed",
+    "Common evaluation dates",
+    "Independent SPY endpoint",
+    "All 36 sensitivity cases; cost monotonicity"
+  ],
+  "daily_rows_per_strategy": 3520,
+  "strategies": 6
+}

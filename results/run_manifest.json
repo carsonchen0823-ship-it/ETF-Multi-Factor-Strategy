@@ -1,0 +1,35 @@
+{
+  "run_utc": "2026-10-07T06:20:44.748077+00:00",
+  "config": {
+    "tickers": [
+      "SPY",
+      "QQQ",
+      "IWM",
+      "EFA",
+      "VNQ",
+      "GLD",
+      "TLT",
+      "LQD"
+    ],
+    "download_start": "2010-01-01",
+    "download_end_exclusive": "2026-01-01",
+    "evaluation_start": "2012-01-01",
+    "lookback": 252,
+    "top_n": 2,
+    "momentum_weight": 0.5,
+    "cost_bps_per_dollar_traded": 10,
+    "annualization": 252,
+    "risk_free_rate": 0.0
+  },
+  "data_sha256": "5c1de1f3c952129f7ada9dc730620d8c9f71f5f118c93525c2f2d14e81505ab2",
+  "code_sha256": "02e8ac7e391ee92e6e23746caddce50d9440f78a38d59483b4b36030c8de0336",
+  "first_evaluation_date": "2012-01-03",
+  "last_evaluation_date": "2025-12-31",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.11.2",
+    "yfinance": "1.7.0"
+  },
+  "interpretation": "Retrospective exploratory comparison; no untouched holdout, no parameter selection from grid."
+}

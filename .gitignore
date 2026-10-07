@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.mplconfig/
+.yf-cache/
+.DS_Store
+paper/render*/
+data/*.csv
+data/manifest.json

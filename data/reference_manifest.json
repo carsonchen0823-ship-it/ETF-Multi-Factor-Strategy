@@ -1,0 +1,73 @@
+{
+  "source": "Yahoo Finance through yfinance; auto_adjust=True",
+  "data_kind": "historical_market_data",
+  "downloaded_utc": "2026-10-07T06:13:49.099399+00:00",
+  "request_start": "2010-01-01",
+  "request_end_exclusive": "2026-01-01",
+  "first_observation": "2010-01-04",
+  "last_observation": "2025-12-31",
+  "rows": 4024,
+  "tickers": [
+    "SPY",
+    "QQQ",
+    "IWM",
+    "EFA",
+    "VNQ",
+    "GLD",
+    "TLT",
+    "LQD"
+  ],
+  "adjusted_close_sha256": "5c1de1f3c952129f7ada9dc730620d8c9f71f5f118c93525c2f2d14e81505ab2",
+  "provider_files": [
+    {
+      "ticker": "SPY",
+      "rows": 4024,
+      "raw_file": "SPY_provider.csv",
+      "sha256": "adbb9305427c77dfb002827eabec0566ce8367587ae1906a62792179aa4a2f03"
+    },
+    {
+      "ticker": "QQQ",
+      "rows": 4024,
+      "raw_file": "QQQ_provider.csv",
+      "sha256": "e518c1579225609c489dd2dce6c235dfc143bf77d0df995e1518fcfc6a91a006"
+    },
+    {
+      "ticker": "IWM",
+      "rows": 4024,
+      "raw_file": "IWM_provider.csv",
+      "sha256": "f2b7e5ce3e411110d2f91b6994b398cdfd254f70a5f3ffe042ef417866463682"
+    },
+    {
+      "ticker": "EFA",
+      "rows": 4024,
+      "raw_file": "EFA_provider.csv",
+      "sha256": "161efcb8a2a0d9a7114fdbd0c0395afb83ce88a7415a44a9fa30ec355eed5442"
+    },
+    {
+      "ticker": "VNQ",
+      "rows": 4024,
+      "raw_file": "VNQ_provider.csv",
+      "sha256": "92b12122d7adfb2ef650045f5477c8451d0c39b33a15c1d94610a57103fadd17"
+    },
+    {
+      "ticker": "GLD",
+      "rows": 4024,
+      "raw_file": "GLD_provider.csv",
+      "sha256": "2d4ed74bbe3a474fb4a1849acd0e876a02fdcd643e579e8f84c05fbe3c0e77ca"
+    },
+    {
+      "ticker": "TLT",
+      "rows": 4024,
+      "raw_file": "TLT_provider.csv",
+      "sha256": "575bfd70594f0fab05832357c95ad4f853fa0ecc4bd579deb0870655dcc74c1b"
+    },
+    {
+      "ticker": "LQD",
+      "rows": 4024,
+      "raw_file": "LQD_provider.csv",
+      "sha256": "6f20f3b6d4df4c99c9418b92154dabf54cb640c631585cbe5e4ac41a24bc5eaf"
+    }
+  ],
+  "yfinance_version": "1.7.0",
+  "notes": "Adjusted closes are a total-return proxy. No random data or forward filling. Vendor revisions and universe selection remain limitations. Personal research use."
+}

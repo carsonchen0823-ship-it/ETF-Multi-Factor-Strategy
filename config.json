@@ -1,0 +1,12 @@
+{
+  "tickers": ["SPY", "QQQ", "IWM", "EFA", "VNQ", "GLD", "TLT", "LQD"],
+  "download_start": "2010-01-01",
+  "download_end_exclusive": "2026-01-01",
+  "evaluation_start": "2012-01-01",
+  "lookback": 252,
+  "top_n": 2,
+  "momentum_weight": 0.5,
+  "cost_bps_per_dollar_traded": 10,
+  "annualization": 252,
+  "risk_free_rate": 0.0
+}

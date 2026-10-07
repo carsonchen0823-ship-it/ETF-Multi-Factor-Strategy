@@ -1,0 +1,16 @@
+test_cagr_is_compounded_not_arithmetic_mean (test_research.ResearchTests.test_cagr_is_compounded_not_arithmetic_mean) ... ok
+test_drawdown_includes_initial_wealth (test_research.ResearchTests.test_drawdown_includes_initial_wealth) ... ok
+test_duplicate_dates_rejected (test_research.ResearchTests.test_duplicate_dates_rejected) ... ok
+test_fee_self_financing (test_research.ResearchTests.test_fee_self_financing) ... ok
+test_future_prices_do_not_change_past_signals (test_research.ResearchTests.test_future_prices_do_not_change_past_signals) ... ok
+test_initial_purchase_cost (test_research.ResearchTests.test_initial_purchase_cost) ... ok
+test_nan_rejected (test_research.ResearchTests.test_nan_rejected) ... ok
+test_rank_scaling_and_top_n (test_research.ResearchTests.test_rank_scaling_and_top_n) ... ok
+test_trade_after_signal_and_not_before_close (test_research.ResearchTests.test_trade_after_signal_and_not_before_close) ... ok
+test_weekend_month_end_and_holiday (test_research.ResearchTests.test_weekend_month_end_and_holiday) ... ok
+test_weights_drift_without_daily_rebalancing (test_research.ResearchTests.test_weights_drift_without_daily_rebalancing) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.117s
+
+OK
