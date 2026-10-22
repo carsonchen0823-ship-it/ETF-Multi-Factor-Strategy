@@ -202,7 +202,7 @@ The project is stronger because its inputs, rules and limitations can now be ins
 
 ## Revision provenance
 
-The original four-script prototype and original paper are retained in the project archive. This October 2026 revision was prepared with AI assistance for implementation, testing, analysis and writing. The historical experiment, accounting corrections, comparison portfolios and updated findings belong to this revision. The paper makes no claim that these additions were completed during the original capstone or that the student independently authored every new component.
+This October 2026 revision extends the original prototype with historical data, revised execution and cost accounting, and additional benchmark comparisons. AI tools assisted with implementation, testing, analysis and writing. I reviewed the methodology, code and reported results.
 
 # Reproducibility and references
 
